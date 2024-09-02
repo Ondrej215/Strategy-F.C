@@ -37,4 +37,4 @@ Welcome to **Strategy F.C.**, a comprehensive football management simulation gam
 
 It is recommended you go through the tutorial on the main menu before starting
 
-I am aware of a few bugs to do with league playoff matches which will be fixed asap. For any other bugs, email vamosondrej@gmail.com.
+I am aware of a few bugs to do with league playoff matches which will be fixed asap. For any other bugs, please send them to the issues page.
